@@ -2,7 +2,6 @@ body {
 font-family: 'Lexend', sans-serif;
 }
 
-
 p {
   line-height: 2;
 }
@@ -21,19 +20,8 @@ a:hover {
   color: black;
 }
 
-.container-home {
-  display: block;
-  margin: 0 auto;
-  width: 60%;
-}
-
-.container {
-  width: 62%;
-}
-
 .container-fluid {
-    padding-top: 70px;
-    padding-bottom: 70px;
+  width: 80%;
 }
 
 .navbar {
@@ -68,28 +56,4 @@ a:hover {
 	margin-top: 25px;
 	font-size: 12px;
   color: #000000;
-}
-
-.profile-picture {
-  width: 1150px;
-  margin: 80px auto;
-  display: block;
-}
-
-.flow-picture {
-  width: 1130px;
-  margin: 80px auto;
-  display: block;
-}
-
-@media all and (max-width: 500px) {
-
-  .container-home{
-    width: 90%;
-  }
-
-  .container {
-    width: 100%;
-  }
-
 }
