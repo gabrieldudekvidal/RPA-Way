@@ -16,6 +16,11 @@ h1, h2, h4 {
   padding: 20px;
 }
 
+a {
+  color: #ee3839;
+  text-decoration: none;
+}
+
 a:hover {
   color: black;
 }
