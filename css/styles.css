@@ -44,39 +44,52 @@ a:hover {
   color: #000000;
 }
 
-.flow-container{
-    background-image: url("../images/flow.png");
+.logo-container {
+  padding-top: 50px;
+}
+
+.main-container{
+    background-image: url("../images/main_web_layout_en_us.png");
     background-repeat: no-repeat;
-    background-size: 1280px 500px;
-    width: 1280px;
+    background-size: cover;
+    height: 700px;
+}
+
+.flow-container{
+    background-image: url("../images/flow_web_layout.png");
+    background-repeat: no-repeat;
+    background-size: contain;
     height: 500px;
 }
 
 .services-container{
-    background-image: url("../images/services.png");
+    background-image: url("../images/services_web_layout.png");
     background-repeat: no-repeat;
-    background-size: 1280px 900px;
-    width: 1280px;
-    height: 900px;
+    background-size: contain;
+    height: 800px;
+
 }
-
-
 
 @media all and (max-width: 900px) {
 
-    .flow-container{
-        background-image: url("../images/flow_mobile_layout.png");
-        background-repeat: no-repeat;
-        background-size: 380px 800px;
-        width: 1280px;
-        height: 800px;
-    }
+  .logo-gif {
+    width: 60%;
+  }
 
+  .main-container{
+      background-image: url("../images/main_mobile_layout_en_us.png");
+      background-repeat: no-repeat;
+      height: 500px;
+  }
 
-    .services-container{
-        background-image: url("../images/services_mobile_layout.png");
-        background-repeat: no-repeat;
-        background-size: 380px 950px;
-        width: 1280px;
-        height: 950px;
-    }
+  .flow-container{
+      background-image: url("../images/flow_mobile_layout.png");
+      background-repeat: no-repeat;
+      height: 800px;
+  }
+
+  .services-container{
+      background-image: url("../images/services_mobile_layout.png");
+      background-repeat: no-repeat;
+      height: 950px;
+  }
