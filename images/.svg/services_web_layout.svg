@@ -14,8 +14,7 @@
 	.st8{fill:#515151;}
 	.st9{fill:#CC1721;}
 	.st10{fill:#6D6D6D;}
-	.st11{enable-background:new    ;}
-	.st12{font-size:36px;}
+	.st11{font-size:36px;}
 </style>
 <rect x="28" y="24" class="st0" width="443" height="268.3"/>
 <rect x="468.9" y="24" class="st1" width="909.1" height="268.3"/>
@@ -40,7 +39,10 @@
 <rect x="96.6" y="825.1" class="st10" width="67.9" height="67.8"/>
 <rect x="164.5" y="892.5" class="st10" width="67.9" height="67.8"/>
 <rect x="232.4" y="825.1" class="st10" width="67.9" height="67.8"/>
-<text transform="matrix(1 0 0 1 510.5835 146.0803)" class="st11"><tspan x="0" y="0" class="st6 st12">Development of robots based on clients requests or </tspan><tspan x="0" y="43.2" class="st6 st12">on task mining.</tspan></text>
-<text transform="matrix(1 0 0 1 72.4642 483.1501)" class="st11"><tspan x="0" y="0" class="st6 st12">Deep analysis to discovery possibilities of automation</tspan><tspan x="0" y="43.2" class="st6 st12">across the company. </tspan></text>
-<text transform="matrix(1 0 0 1 511.8792 826.1498)" class="st11"><tspan x="0" y="0" class="st6 st12">Detailed documentation of automated processes, </tspan><tspan x="0" y="43.2" class="st6 st12">flow diagram and ROI calculation. </tspan></text>
+<text transform="matrix(1 0 0 1 510.5835 146.0803)" class="st6 st11">Development of robots based on client requests  </text>
+<text transform="matrix(1 0 0 1 510.5835 189.2803)" class="st6 st11">and task mining.</text>
+<text transform="matrix(1 0 0 1 72.4642 483.1501)" class="st6 st11">Deep analysis to discovery possibilities of automation</text>
+<text transform="matrix(1 0 0 1 72.4642 526.3501)" class="st6 st11">across the company. </text>
+<text transform="matrix(1 0 0 1 511.8792 826.1498)" class="st6 st11">Detailed documentation of automated processes, </text>
+<text transform="matrix(1 0 0 1 511.8792 869.3498)" class="st6 st11">flow diagram and ROI calculation. </text>
 </svg>
