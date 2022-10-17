@@ -11,6 +11,9 @@ h1, h2, h4 {
   margin: 70px 0px 70px 0px;
 }
 
+h3 {
+  margin-bottom: 50px;
+}
 .contact-icons {
   color: #000000;
   padding: 20px;
@@ -70,6 +73,12 @@ a:hover {
 
 }
 
+.schedule-info {
+  background-color: #ffc31f ;
+  margin: 80px 0px 80px 0px;
+  border-radius: 10px;
+}
+
 @media all and (max-width: 900px) {
 
   .logo-gif {
@@ -79,17 +88,18 @@ a:hover {
   .main-container{
       background-image: url("../images/main_mobile_layout_en_us.png");
       background-repeat: no-repeat;
-      height: 500px;
+      background-size: contain;
+      height: 400px;
   }
 
   .flow-container{
       background-image: url("../images/flow_mobile_layout.png");
       background-repeat: no-repeat;
-      height: 800px;
+      height: 880px;
   }
 
   .services-container{
       background-image: url("../images/services_mobile_layout.png");
       background-repeat: no-repeat;
-      height: 950px;
+      height: 850px;
   }
